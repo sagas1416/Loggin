@@ -5,7 +5,7 @@ Proyecto Loggin whit Bootstrap, POO, PDO, Singleton, Dependency Injection, DAO a
 * PHP7.0
 * MySQL
 * PHPMyAdmin (Optional)
-
+* Testing
 ### Step 0
 ```
 apt install git 
